@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rainier Guinsatao</h1>
 <h3 align="center">A 3rd Year Computer Engineering Student at TUPV.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gif-gifs&psig=AOvVaw3skWR01OlbJqJoWRVO1KQg&ust=1670825753246000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODavY318PsCFQAAAAAdAAAAABAE"/>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameqtpie&label=Profile%20views&color=0e75b6&style=flat" alt="ameqtpie" /> </p>
 
