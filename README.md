@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameqtpie&label=Profile%20views&color=0e75b6&style=flat" alt="ameqtpie" /> </p>
 
-- 🔭 I’m currently working on **Post-Job-App**
+<!-- - 🔭 I’m currently working on **Post-Job-App** -->
 
 - 🌱 I’m currently learning **Web Development Curriculum** -> https://www.piratekingdom.com/curriculum/web-development
 
