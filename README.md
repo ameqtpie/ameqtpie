@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Post-Job-App**
 
-- 🌱 I’m currently learning **Backend Development(Laravel) and Frontend(HTML,CSS,Javascricpt) as well**
+- 🌱 I’m currently learning **Web Development Curriculum** -> https://www.piratekingdom.com/curriculum/web-development
 
 - 📫 How to reach me **rainierguinsatao09@gmail.com**
 
