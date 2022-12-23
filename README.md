@@ -2,7 +2,7 @@
 <h3 align="center">A 3rd Year Computer Engineering Student at TUPV.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ameqtpie&label=Profile%20views&color=0e75b6&style=flat](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" alt="ameqtpie" /> </p>
+<!-- <p align="left"> <img src="[https://komarev.com/ghpvc/?username=ameqtpie&label=Profile%20views&color=0e75b6&style=flat](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" alt="ameqtpie" /> </p> -->
 
 <!-- - 🔭 I’m currently working on **Post-Job-App** -->
 
